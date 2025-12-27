@@ -1,3 +1,6 @@
-[submodule "themes/viva"]
-	path = themes/viva
+[submodule "themes/vivia"]
+	path = themes/vivia
 	url = https://github.com/saicaca/hexo-theme-vivia.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/theme-next/hexo-theme-next.git
