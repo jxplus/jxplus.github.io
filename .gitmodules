@@ -1,6 +1,7 @@
-[submodule "themes/vivia"]
-	path = themes/vivia
-	url = https://github.com/saicaca/hexo-theme-vivia.git
 [submodule "themes/next"]
 	path = themes/next
 	url = https://github.com/theme-next/hexo-theme-next.git
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = https://github.com/ppoffice/hexo-theme-icarus.git
+	branch = 6.1.1
